@@ -1,0 +1,4 @@
+## References
+1. *Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., Dehghani, M., Minderer, M., Heigold, G., Gelly, S., Uszkoreit, J., Houlsby, N.: An image is worth 16x16 words: Transformers for image recognition at scale. arXiv preprint arXiv:2010.11929 (2020).*
+2. *Raschka, S.: Understanding and coding self-attention. Sebastian Raschka's ML and AI Research Newsletter. https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention. Accessed 5 Aug 2024.*
+3. *Balaji, M.: Multilayer Perceptron explained with a real-life example and Python code: Sentiment analysis. Towards Data Science. https://towardsdatascience.com/multilayer-perceptron-explained-with-a-real-life-example-and-python-code-sentiment-analysis-cb408ee93141. Accessed 6 Aug 2024.*
