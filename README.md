@@ -63,5 +63,6 @@ pred_and_plot_image(model=vit,
                     class_names=class_names)
 ```
 
-
+## Conntributors
+[Sanya Sinha](https://github.com/ssanya942) and [Nilay Gupta](https://github.com/ngcd04-fa07)
 
