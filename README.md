@@ -62,7 +62,8 @@ pred_and_plot_image(model=vit,
                     image_path=custom_image_path,
                     class_names=class_names)
 ```
-
+## YouTube Overview
+[![ViT Tutorial Here](https://img.youtube.com/vi/bLJiCiQMAwU/0.jpg)](https://www.youtube.com/watch?v=bLJiCiQMAwU)
 ## Contributors
 [Sanya Sinha](https://github.com/ssanya942) and [Nilay Gupta](https://github.com/ngcd04-fa07)
 
