@@ -2,6 +2,7 @@
 <a target="_blank" href="https://colab.research.google.com/github/ssanya942/MICCAI-Educational-Challenge-2024/blob/master/Implementing_Vision_Transformers_in_PyTorch_from_Scratch.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 ![Intro Image (1)](https://github.com/user-attachments/assets/437c8d37-9ae6-49a6-aec2-887c364349c5)
 
 ## Introduction-Riding the Classics
