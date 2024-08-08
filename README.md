@@ -6,7 +6,7 @@ Vision Transformers (ViTs) were introduced in 2020 to present a classification a
 
 ## Installation
 Please clone the repository to install all the required dependencies and navigate to the working directory. 
-```bash
+```python
 !git clone https://github.com/ssanya942/MICCAI-Educational-Challenge-2024.git
 %cd /content/MICCAI-Educational-Challenge-2024
 ```
